@@ -1,5 +1,5 @@
 ## Hi there👋! It's me Balaji.
-![Image](https://github.com/user-attachments/assets/6cbcfbcf-38ff-4e4c-9b3c-47c751065b02)
+![Image](https://github.com/user-attachments/assets/13ebb82e-908e-40b0-bf42-262d0b84f1d1)
 
 ##### Software Developer 
 - 🔭 Here's my [Portfolio](https://balaji-portfolio-gold.vercel.app/)                                                 
