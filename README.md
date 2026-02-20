@@ -1,4 +1,5 @@
-## Hi there👋! It's me Balaji.
+<h1 align="center">Hi 👋, I'm Balaji</h1>
+<h3 align="center">Software Developer</h3>
 ![Image](https://github.com/user-attachments/assets/8b4d9c4a-836d-415a-8aa9-875e6113a9d1)
 
 ##### Software Developer 
