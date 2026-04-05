@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer(Front-End Heavy)</h3>
 
 
 - 🔭 Here's my [Portfolio](https://balaji-portfolio-gold.vercel.app/)                                                 
